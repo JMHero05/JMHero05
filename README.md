@@ -1,6 +1,8 @@
 <span align="center">
 
 ![Header](images/Header.jpeg)
+  
+<img src="https://tenor.com/view/baby-yoda-baby-yoda-wave-baby-yoda-waving-hi-hello-gif-15975082">
 
 ![Grogu](images/grogu.gif)
 
