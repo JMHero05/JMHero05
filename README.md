@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/u/0/folders/1ZKms1Tuy0LFz0nJEdcitNmnFyifHV7eG">
+<img src="https://drive.google.com/file/d/1WN-PBTvLuAjFc5wpUTeOJBSZwrDHC-Rp/view?usp=sharing">
 
 [![](https://raw.githubusercontent.com/JMHero05/JMHero05/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/JMHero05/JMHero05/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JMHero05/JMHero05/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
