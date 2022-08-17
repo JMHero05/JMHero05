@@ -2,7 +2,7 @@
 
 # Hello, World! <img src="images/hand-wave.gif" width="30px"> #
 
-<p>I'm a former Broadway National Touring Actor based out of NYC, and have successfully transitioned into a new career, software engineering, with Reveal Mobile. While attending the Flatiron School, I grew as a developer learning Ruby on Rails, Javascript, React.js, Redux, and a hankering for learning new technologies. I am excited to use my creativity and leadership skills developed over the last ten years and my software engineering knowledge to further my growth as a developer.</p>
+<p>I'm a former Broadway National Touring Actor based out of NYC, and have successfully transitioned into a new career, software engineering, with Reveal Mobile. While attending the Flatiron School, I grew as a developer learning Ruby on Rails, Javascript, React.js, Redux, and a hankering for learning all that I can. I am excited to use my creativity and leadership skills developed over the last ten years and my software engineering knowledge to further my growth as a developer.</p>
 
 - - - - - - - - - - - - - - - - - - -
 
