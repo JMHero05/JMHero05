@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/JMHero05/JMHero05/master/profile-summary-card-output/2077/4-productive-time.svg)
+```
+
+    
